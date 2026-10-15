@@ -79,15 +79,18 @@ Both solvers match each other and `scikit-learn`. The small gaps from the true w
 
 **Gradient descent loss curve** (cost falls from about 7,814 to about 52)
 
-![Loss curve](images/01_loss_curve.png)
+![Loss curve](<img width="923" height="586" alt="01_loss_curve" src="https://github.com/user-attachments/assets/2a962d9c-a772-494c-bb2a-ee890ef33629" />
+)
 
 **Learning rate comparison**
 
-![Learning rate comparison](images/02_learning_rate_comparison.png)
+![Learning rate comparison](<img width="923" height="586" alt="02_learning_rate_comparison" src="https://github.com/user-attachments/assets/4a7c6621-2a37-4b9f-9d5f-f0c3d23ebea3" />
+)
 
 **Evaluation: predicted vs actual, residuals, residual distribution**
 
-![Evaluation plots](images/03_evaluation_plots.png)
+![Evaluation plots](<img width="2384" height="656" alt="03_evaluation_plots" src="https://github.com/user-attachments/assets/bbed321a-117a-4d8f-9cc5-929c4d0c106c" />
+)
 
 ## How to run
 
