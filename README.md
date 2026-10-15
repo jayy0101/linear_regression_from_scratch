@@ -89,7 +89,7 @@ Both solvers match each other and `scikit-learn`. The small gaps from the true w
 
 **Evaluation: predicted vs actual, residuals, residual distribution**
 
-![Evaluation plots](<img width="2384" height="656" alt="03_evaluation_plots" src="https://github.com/user-attachments/assets/bbed321a-117a-4d8f-9cc5-929c4d0c106c" />
+![Evaluation plots](<img width="2384" height="656" alt="03_evaluation_plots" src="https://github.com/user-attachments/assets/f4cfe0a0-ce4d-4516-9306-0d33d54b874e" />
 )
 
 ## How to run
