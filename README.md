@@ -99,7 +99,6 @@ Option 1: Google Colab (no setup). Click the Open In Colab badge at the top and 
 
 Option 2: locally
 
-Requirements: Python 3.8+, NumPy, Matplotlib, scikit-learn.
 ```bash
 git clone https://github.com/jayy0101/linear_regression_from_scratch.git
 cd linear_regression_from_scratch
