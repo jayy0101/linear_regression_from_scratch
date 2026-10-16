@@ -111,9 +111,9 @@ Run all cells from top to bottom. A fixed random seed makes the results reproduc
 Requirements: Python 3.8+, NumPy, Matplotlib, scikit-learn.
 
 Limitations
-- **.**The main results use synthetic data with a perfectly linear relationship. Real data is rarely this clean, which is why the notebook also runs the same pipeline on a real dataset.
-Linear regression can only model linear relationships between features and the target.
-There is no regularization, so it can overfit when there are many features or little data.
+- The main results use synthetic data with a perfectly linear relationship. Real data is rarely this clean, which is why the notebook also runs the same pipeline on a real dataset.
+- Linear regression can only model linear relationships between features and the target.
+- There is no regularization, so it can overfit when there are many features or little data.
 
 ## Ideas for extension
 
