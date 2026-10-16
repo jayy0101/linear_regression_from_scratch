@@ -2,6 +2,7 @@
 
 Predict house prices using the **normal equation** and **vectorized gradient descent**, built with **only NumPy** and no ML library doing the work. The result is verified against `scikit-learn` at the end.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayy0101/linear_regression_from_scratch/blob/main/linear_regression_from_scratch.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-only-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
