@@ -94,9 +94,14 @@ Both solvers match each other and `scikit-learn`. The small gaps from the true w
 
 ## How to run
 
+Option 1: Google Colab (no setup). Click the Open In Colab badge at the top and run all cells (Runtime > Run all).
+
+Option 2: locally
+
+Requirements: Python 3.8+, NumPy, Matplotlib, scikit-learn.
 ```bash
-git clone https://github.com/jayy0101/<linear_regression_from_scratch>.git
-cd <linear_regression_from_scratch>
+git clone https://github.com/jayy0101/linear_regression_from_scratch.git
+cd linear_regression_from_scratch
 pip install -r requirements.txt
 jupyter notebook linear_regression_from_scratch.ipynb
 ```
@@ -104,6 +109,11 @@ jupyter notebook linear_regression_from_scratch.ipynb
 Run all cells from top to bottom. A fixed random seed makes the results reproducible. The real-dataset step needs internet on first run; without it the notebook falls back to a dataset bundled with scikit-learn.
 
 Requirements: Python 3.8+, NumPy, Matplotlib, scikit-learn.
+
+Limitations
+The main results use synthetic data with a perfectly linear relationship. Real data is rarely this clean, which is why the notebook also runs the same pipeline on a real dataset.
+Linear regression can only model linear relationships between features and the target.
+There is no regularization, so it can overfit when there are many features or little data.
 
 ## Ideas for extension
 
