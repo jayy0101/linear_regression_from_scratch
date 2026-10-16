@@ -95,8 +95,8 @@ Both solvers match each other and `scikit-learn`. The small gaps from the true w
 ## How to run
 
 ```bash
-git clone https://github.com/jayy0101/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/jayy0101/<linear_regression_from_scratch>.git
+cd <linear_regression_from_scratch>
 pip install -r requirements.txt
 jupyter notebook linear_regression_from_scratch.ipynb
 ```
